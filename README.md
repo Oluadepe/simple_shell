@@ -113,5 +113,4 @@ $ echo "[put_commands and_arguments]" | ./hsh
 	`$ ./man_1_simple`
 
 #### Authors
-### Rotimi Owolabi -[@rohteemie](https://github.com/rohteemie)<br>
-### Solomon John - [@slomon](https://github.com/Slomon80)<br>
+### Olusegun Mayungbe -[@mayour26](https://github.com/oluadepe)<br>
